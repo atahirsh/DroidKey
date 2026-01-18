@@ -1,0 +1,5 @@
+{
+  "name": "DroidKey Studio",
+  "description": "A high-fidelity Android keyboard designer and simulator featuring Material You themes, smart AI predictions powered by Gemini, and real-time layout testing.",
+  "requestFramePermissions": []
+}
